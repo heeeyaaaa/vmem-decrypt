@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+preview.html
+# never commit real VM data / decrypted output
+*.vmem
+*.vmsn
+*.vmss
+*.nvram
+*.vmx
+*.dec
+*.dmp
+*.raw
+hash*.txt
